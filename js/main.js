@@ -1,4 +1,4 @@
-numA = 30;
-numB = 20;
-res =numB+numA;
+let numA = 30;
+let numB = 20;
+let res =numB+numA;
 console.log(res)
