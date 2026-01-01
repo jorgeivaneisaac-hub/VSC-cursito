@@ -1,4 +1,3 @@
-let numA = 30;
-let numB = 20;
-let res =numB+numA;
-console.log(res)
+let nombre="Jorge";
+let saludo="hola"+" "+nombre
+console.log(saludo);
